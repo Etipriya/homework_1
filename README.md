@@ -12,7 +12,7 @@ http://127.0.0.1:5500/index.html
 - Project in VS Code
 - Open the 'index.html' file in your default browser
 
-1 ...
+  1...
 
 git clone etipriya.github.io/homework_1/
 cd homework_1
@@ -20,8 +20,8 @@ code .
 
 ## screenshots
 
-## link to deploy application
-
-http://127.0.0.1:5500/index.html#search-engine-optimization
+## Link to deploy application
 
 https://etipriya.github.io/homework_1/
+
+http://127.0.0.1:5500/index.html#search-engine-optimization
