@@ -2,7 +2,7 @@
 
 ## Project Link
 
-http://127.0.0.1:5500/index.html
+https://etipriya.github.io/homework_1/
 
 ## Getting started on the project
 
@@ -13,15 +13,14 @@ http://127.0.0.1:5500/index.html
 - Open the 'index.html' file in your default browser
 
   1...
+  2
 
 git clone etipriya.github.io/homework_1/
 cd homework_1
 code .
 
-## screenshots
+## Screenshots
 
 ## Link to deploy application
 
 https://etipriya.github.io/homework_1/
-
-http://127.0.0.1:5500/index.html#search-engine-optimization
