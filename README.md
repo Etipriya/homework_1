@@ -35,8 +35,6 @@ https://etipriya.github.io/homework_1/
 - Created sections under the class content.
 - Used "aside" for the side bar.
 
-## Screenshots
-
 ## Link to deploy application
 
 - To open up the modified Webpage, click the link below:
