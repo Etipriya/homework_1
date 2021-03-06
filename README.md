@@ -27,9 +27,9 @@ https://etipriya.github.io/homework_1/
 - After modification, SAVE the code and then PUSH it to the GitHub.
 - Open the 'index.html' and right click and open the file in your browser.
 
-### What changes we made?
+## What changes we made?
 
-- Change the name of the website to "Horiseon Website".
+- Changed the name of the website to "Horiseon Website".
 - Introduced Nav bar under the SEO class.
 - Changed Html elements to semantic elements.
 - Created sections under the class content.
@@ -39,4 +39,6 @@ https://etipriya.github.io/homework_1/
 
 ## Link to deploy application
 
-https://etipriya.github.io/homework_1/
+- To open up the modified Webpage, click the link below:
+
+  https://etipriya.github.io/homework_1/
