@@ -43,7 +43,7 @@ https://etipriya.github.io/homework_1/
 
 - After Refractor
 
-  ![image after refactor](assets\images\screencapture-etipriya-github-io-homework-1-2021-03-07-14_41_22.png)
+  ![image after refactor](C:\Users\phanishtangri\coding_bootcamp\homework\homework_1\assets\images\screencapture-etipriya-github-io-homework-1-2021-03-07-22_04_33 (1).png)
 
 ## Link to deploy application
 
