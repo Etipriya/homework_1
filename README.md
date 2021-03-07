@@ -30,10 +30,20 @@ https://etipriya.github.io/homework_1/
 ## What changes we made?
 
 - Changed the name of the website to "Horiseon Website".
-- Introduced Nav bar under the SEO class.
+- Introduced "Nav bar" under the SEO class.
 - Changed Html elements to semantic elements.
-- Created sections under the class content.
+- Created sections under the class "content".
 - Used "aside" for the side bar.
+
+## Screenshots
+
+- Before Refractor:
+
+  ![image before refactor](\assets\images\01-html-css-git-homework-demo.png)
+
+- After Refractor
+
+  ![image after refactor](assets\images\screencapture-etipriya-github-io-homework-1-2021-03-07-14_41_22.png)
 
 ## Link to deploy application
 
